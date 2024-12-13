@@ -1,0 +1,57 @@
+[{"Version":"2.3",
+ "Link":"https://dl.dropboxusercontent.com/scl/fi/3spgg9tafgsg5uptrpuzl/PixL-2.3.apk?rlkey=zuo39sipkf12mza6rtkkha3pn&st=1wxatawi&dl=0",
+ "Size":"4.30 Mb",
+ "Name":"PixL 2.3.apk",
+ "Changelog":"• Fixed A Bug That Caused The App To Crash After Watching An AD\n\nTo View The Full Changelog, Go To About Us->Changelog",
+ "New":"Null",
+ "BugFix":"• Fixed An Issue That Caused The App To Crash After Watching An AD"},
+
+{"Version":"2.2",
+ "Changelog":"• Implemented Fixes For Download Failures\n• Minor Bug Fixes\n\nTo View The Full Changelog, Go To About Us->Changelog",
+ "New":"• Reduced Installation Package Size",
+ "BugFix":"• Fixed A Critical Issue That Caused Download Failures\n• Various Minor Bug Fixes"},
+
+{"Version":"2.1",
+ "Changelog":"• Added New Setting\n• Updated SDK\n• Various Bug Fixes\n\nTo View The Full Changelog, Go To About Us->Changelog",
+ "New":"• Added New Setting\n- Toggle Animations\n• Improved Overall App Performance\n• Updated SDK",
+ "BugFix":"• Fixed A Bug That Caused UI To Become Unresponsive In Some Devices\n• Reduced Overall App Memory Usage"},
+
+{"Version":"2.0",
+ "Changelog":"• Added Background Downloading Support\n• Added HFR Support\n• Added New Animations\n• Various Bug Fixes\n\nTo View The Full Changelog, Go To About Us->Changelog",
+ "New":"• Added Background Downloading Support\n• Added HFR Mode\n• Added New Animations\n• Improved App Layout\n• Improved App Loading Time",
+ "BugFix":"• Fixed An Issue Where The Downloaded File Gets Currupted During Download\n• Fixed UI Overlapping In Some Device Models\n• Fixed UI Glitches During Download"},
+
+{"Version":"1.6",
+ "Changelog":"• Minor Bug Fixes\n\nTo View The Full Changelog, Go To About Us->Changelog",
+ "New":"Null",
+ "BugFix":"• Minor Bug Fixes"},
+
+{"Version":"1.5",
+ "Changelog":"• Improved App Performance\n• Minor Bug Fixes\n\nTo View The Full Changelog, Go To About Us->Changelog",
+ "New":"• Improved App Performance\n• Reduced App Size",
+ "BugFix":"• Fixed Regular Download Failures During Updates\n• Minor Bug Fixes"},
+
+{"Version":"1.4",
+ "Changelog":"• Updated Some UI Elements\n• Minor Bug Fixes\n\nTo View The Full Changelog, Go To About Us->Changelog",
+ "New":"• Reduced Memory Usage While Downloading",
+ "BugFix":"• Minor Bug Fixes"},
+
+{"Version":"1.3",
+ "Changelog":"• Updated SDK\n• Updated Ui Elements\n• Minor Bug Fixes\n\nTo View The Full Changelog, Go To About Us->Changelog",
+ "New":"• Updated SDK\n• Updated UI Elements For Devices With Bigger Displays\n• Better Handling For Download Failures",
+ "BugFix":"• Minor Bug Fixes"},
+
+{"Version":"1.2",
+ "Changelog":"• Added Update Notifications\n• Added Notification Setting\n• Fixed Infinite Loading Bug When Loading Ads\n\nTo View The Full Changelog, Go To About Us->Changelog",
+ "New":"• Added Update Notifications\n• Added Notification Setting\n• Updated Some UI Elements",
+ "BugFix":"• Fixed Infinite Loading Bug When Loading Ads\n• Fixed An Issue Where Installation Packages Were Not Properly Detected On Some Devices"},
+
+{"Version":"1.1",
+ "Changelog":"• Added 2 New Settings\n• Fixed App Icon Appearing Abnormal On Some Devices\n• Improved Downloading Experience\n\nTo View The Full Changelog, Go To About Us->Changelog",
+ "New":"• Added 2 New Settings\n- Clear Installation Packages\n- Clear Update Packages",
+ "BugFix":"• Fixed App Icon Appearing Abnormal On Some Devices\n• Fixed And Issue Where The Download Notification Would Get Stuck On An Unclearable State When The Download Fails\n• Optimised Memory Usage While Downloading On Some Devices\n• Optimised UI Elements On Some Device Models"},
+    
+ {"Version":"1.0",
+ "Changelog":"Null",
+ "New":"Initial Release",
+ "BugFix":"Null"}]
