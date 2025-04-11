@@ -25,7 +25,8 @@
  
 {"Advert":"True",
 "OnClick":"Null",
-"ImgLink":"https://i.postimg.cc/Px9CxckW/banner.png"},
+"ImgLink":"https://i.postimg.cc/Px9CxckW/banner.png",
+"Ads":["True", "5578065", "Rewarded_Android"]},
 
 {"Maintenance":"False",
 "Version":"3.2",
