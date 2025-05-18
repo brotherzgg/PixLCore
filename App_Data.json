@@ -26,11 +26,21 @@
 {"Advert":"True",
 "OnClick":"Null",
 "ImgLink":"https://i.postimg.cc/Px9CxckW/banner.png",
-"Ads":["True", "5578065", "Rewarded_Android"]},
+"Ads":["True", "5578065", "Rewarded_Android"],
+"Service":"True",
+"C_ID":"BsVJ3hh-YJoLPtPGDkkEuoFEnV-QV_r3qzCGSHOPEYnsnK_bu0glaPEmZ66gkPQg",
+"Red_URI":"https://pixlverify.netlify.app/.netlify/functions/patreon-redirect",
+"C_URL":"https://www.patreon.com/brotherzgg",
+"V_URL":"https://pixlverify.netlify.app/.netlify/functions/patreon-verify",
+"Ref_URL":"https://pixlverify.netlify.app/.netlify/functions/patreon-refresh",
+"A_KEY":"BGSECURE786",
+"TutoThumb":"https://i.postimg.cc/qMWHhMrK/Tutorial-Thumbnail.jpg",
+"TutoLink":"https://youtu.be/0raq4Y-pSQI?si=F7AL8PQmiSWMIh3d"},
 
 {"Maintenance":"False",
 "Version":"3.2",
 "Link":"https://dl.dropboxusercontent.com/scl/fi/7dkg5ejm33jqb3fegf3h2/PixL-3.2.apk?rlkey=8s8rxk84802uikr26yi0l1lus&st=yih1zk8c&dl=0",
 "Size":"4.92 Mb",
 "Name":"PixL 3.2.apk",
-"Changelog":"• Minor Bug Fixes\n\nTo View The Full Changelog, Go To About Us->Changelog"}]
+"Changelog":"• Minor Bug Fixes\n\nTo View The Full Changelog, Go To About Us->Changelog",
+"Privacy":"https://pixl-app.netlify.app/privacy-policy"}]
