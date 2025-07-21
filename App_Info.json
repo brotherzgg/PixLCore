@@ -1,7 +1,7 @@
 [{"Advert":"True",
 "OnClick":"Null",
 "ImgLink":"https://i.postimg.cc/Px9CxckW/banner.png",
-"Ads":["True", "5578065", "Rewarded_Android"],
+"Ads":["False", "5578065", "Rewarded_Android"],
 "Service":"True",
 "C_ID":"BsVJ3hh-YJoLPtPGDkkEuoFEnV-QV_r3qzCGSHOPEYnsnK_bu0glaPEmZ66gkPQg",
 "Red_URI":"https://pixlverify.netlify.app/.netlify/functions/patreon-redirect",
